@@ -3,7 +3,7 @@
 **Project Proposal**  
 **Ioana Gidiuta**  
 **Interpretable Disease Profiling from Retinal Fundus Images Using Vascular Features and Patient Metadata**
-
+Drive Link for Pre-processed Datasets: [https://drive.google.com/drive/folders/1QHtnvaXpZlL2R88R4GOkHn1QGCaDfS7X?usp=drive_link](https://drive.google.com/drive/folders/1QHtnvaXpZlL2R88R4GOkHn1QGCaDfS7X?usp=drive_link)
 ---
 
 ## 1. Introduction
